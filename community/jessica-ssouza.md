@@ -1,6 +1,6 @@
   # *Olá, seja muito bem vindo(a)!!*
 
-  Esta plataforma documenta minha jornada de transição de carreira de enfermagem para tecnologia marcada por aprendizados valiosos, desafios inspiradores e uma profunda paixão por ambas as áreas.
+   Esta plataforma documenta minha jornada de transição de carreira de enfermagem para tecnologia marcada por aprendizados valiosos, desafios inspiradores e uma profunda paixão por ambas as áreas.
 
   ## Sobre Mim
    Sou uma profissional apaixonada pela arte de cuidar que encontrou na tecnologia uma extensão dessa missão. Durante anos, atuei no universo da saúde, testemunhando a importância da inovação no cuidado com o paciente. Agora, trago essa mesma dedicação para o mundo da tecnologia, onde acredito que posso fazer a diferença de uma maneira diferente, mas igualmente significativa. Minha motivação para esta transição é impulsionada pela minha paixão por novos desafios. Acredito que este ambiente colaborativo é uma arena ideal para aprender, crescer e me desenvolver.
